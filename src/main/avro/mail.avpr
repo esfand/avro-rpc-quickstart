@@ -1,4 +1,5 @@
 {"namespace": "example.proto",
+
  "protocol": "Mail",
 
  "types": [
